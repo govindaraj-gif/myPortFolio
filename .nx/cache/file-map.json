@@ -118,19 +118,152 @@
         },
         {
           "file": ".gitignore",
-          "hash": "13044518069027839699"
+          "hash": "14158268991264801875"
+        },
+        {
+          "file": ".nx/cache/16717456551911013065/code",
+          "hash": "1838281907459330133"
+        },
+        {
+          "file": ".nx/cache/16717456551911013065/outputs/dist/shared/README.md",
+          "hash": "17790764760673469666"
+        },
+        {
+          "file": ".nx/cache/16717456551911013065/outputs/dist/shared/esm2022/index.mjs",
+          "hash": "13915950098460203864"
+        },
+        {
+          "file": ".nx/cache/16717456551911013065/outputs/dist/shared/esm2022/lib/shared.component.mjs",
+          "hash": "4810690554593062178",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": ".nx/cache/16717456551911013065/outputs/dist/shared/esm2022/lib/shared.module.mjs",
+          "hash": "12641493887327635330",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": ".nx/cache/16717456551911013065/outputs/dist/shared/esm2022/lib/shared.service.mjs",
+          "hash": "3899670576675490557",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": ".nx/cache/16717456551911013065/outputs/dist/shared/esm2022/shared.mjs",
+          "hash": "7305748852719287549"
+        },
+        {
+          "file": ".nx/cache/16717456551911013065/outputs/dist/shared/fesm2022/shared.mjs",
+          "hash": "12507362521241116336",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": ".nx/cache/16717456551911013065/outputs/dist/shared/fesm2022/shared.mjs.map",
+          "hash": "471048577509476139"
+        },
+        {
+          "file": ".nx/cache/16717456551911013065/outputs/dist/shared/index.d.ts",
+          "hash": "6892601111808030787"
+        },
+        {
+          "file": ".nx/cache/16717456551911013065/outputs/dist/shared/lib/shared.component.d.ts",
+          "hash": "770563883742528473",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": ".nx/cache/16717456551911013065/outputs/dist/shared/lib/shared.module.d.ts",
+          "hash": "10884422335590446835",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": ".nx/cache/16717456551911013065/outputs/dist/shared/lib/shared.service.d.ts",
+          "hash": "5227072502009367782",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": ".nx/cache/16717456551911013065/outputs/dist/shared/package.json",
+          "hash": "4374997935358457045"
+        },
+        {
+          "file": ".nx/cache/16717456551911013065/terminalOutput",
+          "hash": "2908699423601440215"
+        },
+        {
+          "file": ".nx/cache/16717456551911013065.commit",
+          "hash": "4664556114322093609"
+        },
+        {
+          "file": ".nx/cache/16717456551911013065.tar.gz",
+          "hash": "2616607385394551854"
+        },
+        {
+          "file": ".nx/cache/7414918831077168830/code",
+          "hash": "1838281907459330133"
+        },
+        {
+          "file": ".nx/cache/7414918831077168830/outputs/dist/my-port-folio/3rdpartylicenses.txt",
+          "hash": "12036653434683974015"
+        },
+        {
+          "file": ".nx/cache/7414918831077168830/outputs/dist/my-port-folio/favicon.ico",
+          "hash": "3464744996580215640"
+        },
+        {
+          "file": ".nx/cache/7414918831077168830/outputs/dist/my-port-folio/index.html",
+          "hash": "8375242808671870804"
+        },
+        {
+          "file": ".nx/cache/7414918831077168830/outputs/dist/my-port-folio/main.db70dee9d1c6ec4c.js",
+          "hash": "4163771668384151691"
+        },
+        {
+          "file": ".nx/cache/7414918831077168830/outputs/dist/my-port-folio/polyfills.7e0c2cbf905c49c9.js",
+          "hash": "7615806039155346731"
+        },
+        {
+          "file": ".nx/cache/7414918831077168830/outputs/dist/my-port-folio/runtime.db9df383e3e334e3.js",
+          "hash": "972147934595026624"
+        },
+        {
+          "file": ".nx/cache/7414918831077168830/outputs/dist/my-port-folio/styles.e777d6f7931fbf75.css",
+          "hash": "14882027513257444534"
+        },
+        {
+          "file": ".nx/cache/7414918831077168830/terminalOutput",
+          "hash": "17861364101686157400"
+        },
+        {
+          "file": ".nx/cache/7414918831077168830.commit",
+          "hash": "4664556114322093609"
+        },
+        {
+          "file": ".nx/cache/7414918831077168830.tar.gz",
+          "hash": "2494420695070405716"
         },
         {
           "file": ".nx/cache/d/daemon.log",
-          "hash": "2396099465700289448"
+          "hash": "3792316880582940185"
         },
         {
           "file": ".nx/cache/d/server-process.json",
-          "hash": "3231916105901645588"
+          "hash": "4938925685808102706"
         },
         {
           "file": ".nx/cache/file-map.json",
-          "hash": "6577544589960653767"
+          "hash": "13793035711479171046"
         },
         {
           "file": ".nx/cache/lockfile.hash",
@@ -143,6 +276,10 @@
         {
           "file": ".nx/cache/nx-console-project-graph/static/3rdpartylicenses.txt",
           "hash": "5667550289807473445"
+        },
+        {
+          "file": ".nx/cache/nx-console-project-graph/static/environment.js",
+          "hash": "13308963368409773048"
         },
         {
           "file": ".nx/cache/nx-console-project-graph/static/favicon.ico",
@@ -180,7 +317,7 @@
         },
         {
           "file": ".nx/cache/project-graph.json",
-          "hash": "7896515846200416225"
+          "hash": "9200069742098921401"
         },
         {
           "file": ".nx/cache/run.json",
@@ -195,8 +332,20 @@
           "hash": "14100555893191161239"
         },
         {
+          "file": ".nx/cache/terminalOutputs/16717456551911013065",
+          "hash": "2908699423601440215"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/2169831430322309701",
+          "hash": "15689887991472127432"
+        },
+        {
           "file": ".nx/cache/terminalOutputs/2609547998315776911",
           "hash": "7912720790555189656"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/7414918831077168830",
+          "hash": "17861364101686157400"
         },
         {
           "file": ".vscode/extensions.json",
@@ -213,6 +362,107 @@
         {
           "file": "README.md",
           "hash": "6994694237714597238"
+        },
+        {
+          "file": "dist/my-port-folio/3rdpartylicenses.txt",
+          "hash": "12036653434683974015"
+        },
+        {
+          "file": "dist/my-port-folio/favicon.ico",
+          "hash": "3464744996580215640"
+        },
+        {
+          "file": "dist/my-port-folio/index.html",
+          "hash": "8375242808671870804"
+        },
+        {
+          "file": "dist/my-port-folio/main.db70dee9d1c6ec4c.js",
+          "hash": "4163771668384151691"
+        },
+        {
+          "file": "dist/my-port-folio/polyfills.7e0c2cbf905c49c9.js",
+          "hash": "7615806039155346731"
+        },
+        {
+          "file": "dist/my-port-folio/runtime.db9df383e3e334e3.js",
+          "hash": "972147934595026624"
+        },
+        {
+          "file": "dist/my-port-folio/styles.e777d6f7931fbf75.css",
+          "hash": "14882027513257444534"
+        },
+        {
+          "file": "dist/shared/README.md",
+          "hash": "17790764760673469666"
+        },
+        {
+          "file": "dist/shared/esm2022/index.mjs",
+          "hash": "13915950098460203864"
+        },
+        {
+          "file": "dist/shared/esm2022/lib/shared.component.mjs",
+          "hash": "4810690554593062178",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "dist/shared/esm2022/lib/shared.module.mjs",
+          "hash": "12641493887327635330",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "dist/shared/esm2022/lib/shared.service.mjs",
+          "hash": "3899670576675490557",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "dist/shared/esm2022/shared.mjs",
+          "hash": "7305748852719287549"
+        },
+        {
+          "file": "dist/shared/fesm2022/shared.mjs",
+          "hash": "12507362521241116336",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "dist/shared/fesm2022/shared.mjs.map",
+          "hash": "471048577509476139"
+        },
+        {
+          "file": "dist/shared/index.d.ts",
+          "hash": "6892601111808030787"
+        },
+        {
+          "file": "dist/shared/lib/shared.component.d.ts",
+          "hash": "770563883742528473",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "dist/shared/lib/shared.module.d.ts",
+          "hash": "10884422335590446835",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "dist/shared/lib/shared.service.d.ts",
+          "hash": "5227072502009367782",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "dist/shared/package.json",
+          "hash": "4374997935358457045"
         },
         {
           "file": "nx.json",
@@ -344,155 +594,6 @@
         {
           "file": "tsconfig.spec.json",
           "hash": "15575553540147145788"
-        },
-        {
-          "file": ".nx/cache/terminalOutputs/2169831430322309701",
-          "hash": "15689887991472127432"
-        },
-        {
-          "file": ".nx/cache/nx-console-project-graph/static/environment.js",
-          "hash": "13308963368409773048"
-        },
-        {
-          "file": ".nx/cache/terminalOutputs/16717456551911013065",
-          "hash": "2908699423601440215"
-        },
-        {
-          "file": ".nx/cache/16717456551911013065/outputs/dist/shared/fesm2022/shared.mjs",
-          "hash": "12507362521241116336",
-          "deps": [
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": ".nx/cache/16717456551911013065/outputs/dist/shared/README.md",
-          "hash": "17790764760673469666"
-        },
-        {
-          "file": ".nx/cache/16717456551911013065/outputs/dist/shared/lib/shared.component.d.ts",
-          "hash": "770563883742528473",
-          "deps": [
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": ".nx/cache/16717456551911013065/outputs/dist/shared/esm2022/index.mjs",
-          "hash": "13915950098460203864"
-        },
-        {
-          "file": ".nx/cache/16717456551911013065/outputs/dist/shared/esm2022/lib/shared.module.mjs",
-          "hash": "12641493887327635330",
-          "deps": [
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": ".nx/cache/16717456551911013065/outputs/dist/shared/esm2022/lib/shared.component.mjs",
-          "hash": "4810690554593062178",
-          "deps": [
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": ".nx/cache/16717456551911013065/outputs/dist/shared/lib/shared.service.d.ts",
-          "hash": "5227072502009367782",
-          "deps": [
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": ".nx/cache/16717456551911013065/outputs/dist/shared/esm2022/shared.mjs",
-          "hash": "7305748852719287549"
-        },
-        {
-          "file": ".nx/cache/16717456551911013065/outputs/dist/shared/package.json",
-          "hash": "4374997935358457045"
-        },
-        {
-          "file": ".nx/cache/16717456551911013065/outputs/dist/shared/esm2022/lib/shared.service.mjs",
-          "hash": "3899670576675490557",
-          "deps": [
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": ".nx/cache/16717456551911013065.commit",
-          "hash": "4664556114322093609"
-        },
-        {
-          "file": ".nx/cache/16717456551911013065/terminalOutput",
-          "hash": "2908699423601440215"
-        },
-        {
-          "file": ".nx/cache/16717456551911013065/outputs/dist/shared/fesm2022/shared.mjs.map",
-          "hash": "471048577509476139"
-        },
-        {
-          "file": ".nx/cache/16717456551911013065/code",
-          "hash": "1838281907459330133"
-        },
-        {
-          "file": ".nx/cache/16717456551911013065/outputs/dist/shared/index.d.ts",
-          "hash": "6892601111808030787"
-        },
-        {
-          "file": ".nx/cache/16717456551911013065/outputs/dist/shared/lib/shared.module.d.ts",
-          "hash": "10884422335590446835",
-          "deps": [
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": ".nx/cache/terminalOutputs/7414918831077168830",
-          "hash": "17861364101686157400"
-        },
-        {
-          "file": ".nx/cache/7414918831077168830/outputs/dist/my-port-folio/index.html",
-          "hash": "8375242808671870804"
-        },
-        {
-          "file": ".nx/cache/7414918831077168830/outputs/dist/my-port-folio/runtime.db9df383e3e334e3.js",
-          "hash": "972147934595026624"
-        },
-        {
-          "file": ".nx/cache/7414918831077168830/code",
-          "hash": "1838281907459330133"
-        },
-        {
-          "file": ".nx/cache/7414918831077168830.commit",
-          "hash": "4664556114322093609"
-        },
-        {
-          "file": ".nx/cache/7414918831077168830/terminalOutput",
-          "hash": "17861364101686157400"
-        },
-        {
-          "file": ".nx/cache/7414918831077168830/outputs/dist/my-port-folio/favicon.ico",
-          "hash": "3464744996580215640"
-        },
-        {
-          "file": ".nx/cache/7414918831077168830/outputs/dist/my-port-folio/3rdpartylicenses.txt",
-          "hash": "12036653434683974015"
-        },
-        {
-          "file": ".nx/cache/7414918831077168830/outputs/dist/my-port-folio/main.db70dee9d1c6ec4c.js",
-          "hash": "4163771668384151691"
-        },
-        {
-          "file": ".nx/cache/7414918831077168830/outputs/dist/my-port-folio/styles.e777d6f7931fbf75.css",
-          "hash": "14882027513257444534"
-        },
-        {
-          "file": ".nx/cache/7414918831077168830/outputs/dist/my-port-folio/polyfills.7e0c2cbf905c49c9.js",
-          "hash": "7615806039155346731"
-        },
-        {
-          "file": ".nx/cache/7414918831077168830.tar.gz",
-          "hash": "2494420695070405716"
-        },
-        {
-          "file": ".nx/cache/16717456551911013065.tar.gz",
-          "hash": "2616607385394551854"
         }
       ]
     }
