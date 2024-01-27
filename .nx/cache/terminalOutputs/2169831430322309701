@@ -1,0 +1,13 @@
+[34mBuilding Angular Package[39m
+[37m[39m
+[37m------------------------------------------------------------------------------[39m
+[37mBuilding entry point 'shared'[39m
+[37m------------------------------------------------------------------------------[39m
+[36m⠋[39m Compiling with Angular sources in Ivy partial compilation mode.[2K[1G[31m✖[39m Compiling with Angular sources in Ivy partial compilation mode.
+[1m[31m[91merror[0m[90m TS6053: [0mFile 'C:/Users/gopi/Desktop/Govind Projects/PortFolio/myPortFolio/shared/src/public-api.ngtypecheck.ts' not found.[39m[22m
+[1m[31m  The file is in the program because:[39m[22m
+[1m[31m    Root file specified for compilation[39m[22m
+[1m[31m[91merror[0m[90m TS6053: [0mFile 'C:/Users/gopi/Desktop/Govind Projects/PortFolio/myPortFolio/shared/src/public-api.ts' not found.[39m[22m
+[1m[31m  The file is in the program because:[39m[22m
+[1m[31m    Root file specified for compilation[39m[22m
+[1m[31m[39m[22m
