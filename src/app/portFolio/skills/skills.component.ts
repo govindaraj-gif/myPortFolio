@@ -11,7 +11,7 @@ export class SkillsComponent {
   }
 
   backEnd = {
-    skills:['Mysql' , 'C#' ,'.netCore Web API' ,'Microservices']
+    skills:['Mysql' , 'C#' ,'.netCore Web API' ,'Microservices' ,'Kafka']
   }
   
   constructor(){
